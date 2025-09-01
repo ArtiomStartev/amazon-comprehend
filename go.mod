@@ -1,4 +1,4 @@
-module aws-comprehend
+module amazon-comprehend
 
 go 1.23.1
 
