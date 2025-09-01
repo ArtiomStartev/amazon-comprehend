@@ -24,7 +24,7 @@ This demo demonstrates the following AWS Comprehend capabilities:
 1. Clone this repository:
 ```bash
 git clone <repository-url>
-cd aws-comprehend
+cd amazon-comprehend
 ```
 
 2. Install dependencies:
